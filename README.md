@@ -16,7 +16,6 @@ Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical E
 ---
 
 ### Projects
-
 - [EPANET](https://github.com/OpenWaterAnalytics/EPANET)
 - [EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit)
 - [BattLeDIM](https://github.com/KIOS-Research/BattLeDIM)
@@ -33,7 +32,9 @@ Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical E
 ---
 
 ### QGIS-Plugins
-
+- [QChatGPT](https://github.com/KIOS-Research/QChatGPT)
+- [PathoGAME](https://github.com/KIOS-Research/PathoGAME)
+- [QRestart](https://github.com/Mariosmsk/QRestart)
 - [ImportPhotos](https://github.com/KIOS-Research/ImportPhotos)
 - [QWeather](https://github.com/KIOS-Research/QWeather)
 - [QWeb](https://github.com/KIOS-Research/QWeb)
@@ -44,7 +45,12 @@ Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical E
 ---
 
 ### Latest Blog Posts
+https://mariosmsk.com
+
 <!-- HASHNODE:START -->
+- [QGIS 3.32 Lima](https://mariosmsk.wordpress.com/2023/06/24/qgis-3-32-lima-visual-changelog/)
+- [QChatGPT: Speak with AI](https://mariosmsk.wordpress.com/2023/05/08/qchatgpt-speak-with-ai/)
+- [pdfgpt](https://mariosmsk.wordpress.com/2023/06/14/pdfgpt-python-package/)
 - [QGIS Plugin – Multilayer Select #QGIS](https://mariosmsk.com/2020/09/12/qgis-plugin-multilayer-select-qgis/)
 - [Battle of the Leakage Detection and Isolation Methods (BattLeDIM 2020)](https://mariosmsk.com/2020/08/30/battle-of-the-leakage-detection-and-isolation-methods-battledim-2020/)
 - [How to create COVID-19 animation with QGIS Temporal Controller](https://mariosmsk.com/2020/08/21/how-to-create-covid-19-animation-with-qgis-temporal-controller/)
@@ -54,8 +60,5 @@ Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical E
 <!-- HASHNODE:END -->
 
 ---
-
-![github stats](https://github-readme-stats.vercel.app/api?username=mariosmsk&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariosmsk&hide=javascript,go,html)
 
 ![](https://github.com/Mariosmsk/Mariosmsk/blob/master/world.gif)

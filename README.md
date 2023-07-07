@@ -10,6 +10,7 @@
 [![Website Badge](https://img.shields.io/badge/My-Website-black)](https://mariosmsk.com/)
 [![Facebook Badge](https://img.shields.io/badge/Cyprus-EPANET-blue)](https://www.facebook.com/epanetcyprus/)
 [![Facebook Badge](https://img.shields.io/badge/Cyprus-QGIS-green)](https://www.facebook.com/qgiscyprus/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mariosmsk.Mariosmsk)
 
 Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical Engineering from the Department of Electrical and Computer Engineering of the [University of Cyprus](http://ucy.ac.cy/). His Master Thesis with the title “Risk Evaluation and Sensor Placement for Disinfection By-Products in Water Distribution Systems” was carried out in KIOS under the supervision of Dr. Marios M. Polycarpou and Dr. Demetrios G. Eliades. He is working as a Research Software Engineer at the [KIOS Research and Innovation Center of Excellence](https://www.kios.ucy.ac.cy/) since 2012. He has a strong background in integrating academic research into software, development of tools and software that can assist in different areas such as water distribution system monitoring, geographic information system (GIS) monitoring, emergency response monitoring, etc.  
 

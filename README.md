@@ -49,6 +49,7 @@ Marios S. Kyriakou received his B.Sc (2012) and his M.Sc. (2014) in Electrical E
 https://mariosmsk.com
 
 <!-- HASHNODE:START -->
+- [Top 30 Most Downloaded QGIS Plugins (5/7/2023 – 12/7/2023)](https://mariosmsk.wordpress.com/2023/07/12/qgis-plugin-downloads-5-7-2023-12-7-2023/)
 - [QGIS Plugins Data - Downloads](https://mariosmsk.wordpress.com/2023/07/05/qgis-plugins-data/)
 - [QGIS 3.32 Lima](https://mariosmsk.wordpress.com/2023/06/24/qgis-3-32-lima-visual-changelog/)
 - [QChatGPT: Speak with AI](https://mariosmsk.wordpress.com/2023/05/08/qchatgpt-speak-with-ai/)
